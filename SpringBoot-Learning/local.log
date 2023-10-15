@@ -1,0 +1,8 @@
+2023-10-13T19:01:20.704+05:30  INFO 10596 --- [http-nio-7711-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-13T19:01:20.705+05:30  INFO 10596 --- [http-nio-7711-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-10-13T19:01:20.706+05:30  INFO 10596 --- [http-nio-7711-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-10-13T19:01:20.716+05:30  INFO 10596 --- [http-nio-7711-exec-3] c.s.s.controller.DepartmentController    : Inside the departmentService class
+2023-10-13T20:13:21.377+05:30  WARN 10596 --- [HikariPool-4 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=1h3m6s338ms913µs100ns).
+2023-10-13T21:52:05.761+05:30  WARN 10596 --- [HikariPool-4 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=1h32m44s256ms794µs700ns).
+2023-10-13T22:34:29.107+05:30  WARN 10596 --- [HikariPool-4 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=28m23s137ms425µs).
+2023-10-13T23:24:06.878+05:30  WARN 10596 --- [HikariPool-4 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=5m7s38ms90µs).
